@@ -23,11 +23,11 @@ FarmVision_2026.xlsx	Main Excel project containing the farm dataset, analysis, d
 FarmVision-2026.pptx	Project presentation explaining the FarmVision 2026 project
 
 Project Structure:
-FarmVision-2026/
-│
-├── FarmVision_2026.xlsx
-├── FarmVision-2026.pptx
-└── README.md
+FarmVision-2026
+
+   FarmVision_2026.xlsx
+   FarmVision-2026.pptx
+   README.md
 
 Author:
 Dhaksha Subramani
